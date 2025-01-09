@@ -16,5 +16,6 @@ To write to a text file, you can use classes like FileWriter and BufferedWriter.
 3. Modifying a File:
 To modify a file, you typically read its contents, make changes in memory, and then write the modified contents back to the file.
     Output
-    "C:\Users\Sathish\Downloads\screeen1.pr1.png"
-    "C:\Users\Sathish\Downloads\screen2.prb2.png"
+   ![screeen1 pr1](https://github.com/user-attachments/assets/886cd36d-3dea-4ff0-b9ad-3cdbae2d05b7)
+   ![screen2 prb2](https://github.com/user-attachments/assets/0cc7bb45-ef8a-4583-b60e-6694addcb791)
+
